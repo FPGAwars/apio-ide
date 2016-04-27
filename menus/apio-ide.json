@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle apio-ide",
+        "command": "apio-ide:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "apio-ide",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "apio-ide:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

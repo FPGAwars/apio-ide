@@ -33,5 +33,12 @@
     style:
       color: "#FA4F28"
   }
+  {
+    type: "button"
+    icon: "archive"
+    callback: "apio-ide:text"
+    tooltip: "Save"
+    iconset: "ion"
+  }
 
 ]

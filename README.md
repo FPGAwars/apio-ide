@@ -9,9 +9,9 @@ Generate the **bistream** from the **Verilog** files, and then upload it into th
 
 ## Supported boards
 
-| Picture     | Board   |
+| Picture        | Board          |
 | :------------- | :------------- |
-| Item One       | Icestick       |
+|[[https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png|width=300px]]      | Icestick       |
 | Picture 2      | IceZum Alhambra|
 | Picture 3      | Nandland go board |
 

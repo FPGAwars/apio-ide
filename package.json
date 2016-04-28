@@ -12,11 +12,21 @@
   },
   "dependencies": {
   },
+  "package-dependencies": {
+    "tool-bar": "^0.2.0"
+  },
   "providedServices": {
     "builder": {
       "description": "APIO IDE for Atom",
       "versions": {
         "2.0.0": "provideBuilder"
+      }
+    }
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0.1.0": "consumeToolBar"
       }
     }
   }

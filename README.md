@@ -8,6 +8,10 @@ Develop hardware for open FPGAs easily
 
 Generate the **bistream** from the **Verilog** files, and then upload it into the FPGA
 
+## Documentation
+
+[The documentation is located in the wiki page](https://github.com/FPGAwars/apio-ide/wiki)
+
 ## Supported boards
 
 | Picture        | Board          |

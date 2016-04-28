@@ -1,6 +1,6 @@
 ![][apio-ide-logo]
 
-**APIO ide**: Develop hardware for open FPGAs easily
+Develop hardware for open FPGAs easily
 
 ## Introduction
 

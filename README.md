@@ -11,9 +11,9 @@ Generate the **bistream** from the **Verilog** files, and then upload it into th
 
 | Picture        | Board          |
 | :------------- | :------------- |
-|[[https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png|width=300px]]      | Icestick       |
-| Picture 2      | IceZum Alhambra|
-| Picture 3      | Nandland go board |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png)      | Icestick       |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icezum-1.png)      | IceZum Alhambra|
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/nandland-go-board-1.jpg)      | Nandland go board |
 
 ## License
 

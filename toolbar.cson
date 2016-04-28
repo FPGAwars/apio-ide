@@ -4,7 +4,16 @@
 
 [
   {
-    type: "spacer"
+    type: "button"
+    icon: "check"
+    iconset: "fa"
+    callback: "apio:build"
+  }
+  {
+    type: "button"
+    icon: "check"
+    iconset: "fa"
+    callback: "apio-ide:target:build"
   }
   {
     type: "url"

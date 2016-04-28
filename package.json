@@ -5,14 +5,19 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "apio-ide:toggle"
-  },
   "repository": "https://github.com/atom/apio-ide",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+  },
+  "providedServices": {
+    "builder": {
+      "description": "APIO IDE for Atom",
+      "versions": {
+        "2.0.0": "provideBuilder"
+      }
+    }
   }
 }

@@ -11,13 +11,13 @@ Generate the **bistream** from the **Verilog** files, and then upload it into th
 
 | Picture        | Board          |
 | :------------- | :------------- |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png)      | Icestick       |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icezum-1.png)      | IceZum Alhambra|
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/nandland-go-board-1.jpg)      | Nandland go board |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png)      | [Icestick](http://www.latticesemi.com/icestick)       |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icezum-1.png)      | [IceZum Alhambra](https://github.com/FPGAwars/icezum/wiki) |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/nandland-go-board-1.jpg)      | [Nandland go board](https://www.nandland.com/goboard/introduction.html) |
 
 ## License
 
-Releases under the GLP v2 license
+Released under the GLP v2 license
 
 ## Authors
 * Juan Gonzalez-Gomez (Obijuan)

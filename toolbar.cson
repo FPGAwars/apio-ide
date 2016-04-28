@@ -9,45 +9,5 @@
     iconset: "fa"
     callback: "apio:build"
   }
-  {
-    type: "button"
-    icon: "check"
-    iconset: "fa"
-    callback: "apio-ide:target:build"
-  }
-  {
-    type: "url"
-    icon: "octoface"
-    url: "https://github.com/"
-    tooltip: "Github Page"
-  }
-  {
-    type: "button"
-    icon: "document"
-    callback: "application:new-file"
-    tooltip: "New File"
-    iconset: "ion"
-    mode: "dev"
-  }
-  {
-    type: "button"
-    icon: "columns"
-    iconset: "fa"
-    callback: "apio-ide:toggle"
-  }
-  {
-    type: "button"
-    icon: "circuit-board"
-    callback: "git-diff:toggle-diff-list"
-    style:
-      color: "#FA4F28"
-  }
-  {
-    type: "button"
-    icon: "archive"
-    callback: "apio-ide:text"
-    tooltip: "Save"
-    iconset: "ion"
-  }
 
 ]

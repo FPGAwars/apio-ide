@@ -4,6 +4,10 @@
       {
         "label": "Apio build",
         "command": "apio:build"
+      },
+      {
+        "label": "Apio Upload",
+        "command": "apio:upload"
       }
     ]
   },
@@ -14,6 +18,10 @@
        {
          "label": "Build",
          "command": "apio:build"
+       },
+       {
+         "label": "Upload",
+         "command": "apio:upload"
        }
       ]
     }

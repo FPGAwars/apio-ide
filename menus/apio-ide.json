@@ -30,6 +30,10 @@
        {
          "label": "Clean",
          "command": "apio:clean"
+       },
+       {
+         "label": "Simulation",
+         "command": "apio:sim"
        }
       ]
     }

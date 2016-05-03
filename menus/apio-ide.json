@@ -8,6 +8,10 @@
       {
         "label": "Apio Upload",
         "command": "apio:upload"
+      },
+      {
+        "label": "Apio Clean",
+        "command": "apio:clean"
       }
     ]
   },
@@ -22,6 +26,10 @@
        {
          "label": "Upload",
          "command": "apio:upload"
+       },
+       {
+         "label": "Clean",
+         "command": "apio:clean"
        }
       ]
     }

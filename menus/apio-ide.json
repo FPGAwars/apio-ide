@@ -32,8 +32,15 @@
          "command": "apio:clean"
        },
        {
+         "type": "separator"
+       },
+       {
          "label": "Simulation",
          "command": "apio:sim"
+       },
+       {
+         "label": "Time",
+         "command": "apio:time"
        }
       ]
     }

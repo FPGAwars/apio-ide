@@ -1,4 +1,4 @@
-![][apio-ide-logo]
+![](https://github.com/FPGAwars/apio-ide/raw/master/doc/apio-ide-logo.png)
 
 Develop hardware for open FPGAs easily
 
@@ -32,5 +32,3 @@ Released under the GLP v2 license
 * [Icestorm project](http://www.clifford.at/icestorm/)
 * [Platformio-ide](http://platformio.org/)
 * [APIO](https://github.com/FPGAwars/apio)
-
-[apio-ide-logo]: doc/apio-ide-logo.png

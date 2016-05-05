@@ -41,6 +41,13 @@
        {
          "label": "Time",
          "command": "apio:time"
+       },
+       {
+         "type": "separator"
+       },
+       {
+         "label": "NEW project",
+         "command": "apio:init"
        }
       ]
     }

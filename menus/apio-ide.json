@@ -48,6 +48,10 @@
        {
          "label": "NEW project",
          "command": "apio:init"
+       },
+       {
+         "label": "Apio version",
+         "command": "apio:version"
        }
       ]
     }

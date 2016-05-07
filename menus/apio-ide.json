@@ -20,8 +20,44 @@
       "label": "Apio",
       "submenu": [
         {
-          "label": "Examples",
-          "command": "apio:examples"
+        "label": "Examples",
+        "submenu": [
+          {
+            "label": "Constraint files (PCF)",
+            "submenu": [
+              {
+                "label": "Icezum",
+                "command": "apio:example_icezum"
+              },
+              {
+                "label": "Icestick",
+                "command": "apio:example_icestick"
+              },
+              {
+                "label": "Go board",
+                "command": "apio:example_go_board"
+              }
+            ]
+          },
+
+          {
+            "label" : "Go Board",
+            "submenu": [
+              {
+                "label" : "Leds",
+                "command": "apio:example_go_board_leds"
+              }
+            ]
+          },
+          {
+            "label": "Leds",
+            "command": "apio:example_leds"
+          },
+          {
+            "label": "Wire",
+            "command": "apio:example_wire"
+          }
+        ]
         },
         {
           "type": "separator"

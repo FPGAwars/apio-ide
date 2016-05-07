@@ -19,6 +19,13 @@
     {
       "label": "Apio",
       "submenu": [
+        {
+          "label": "Examples",
+          "command": "apio:examples"
+        },
+        {
+          "type": "separator"
+        },
        {
          "label": "Build",
          "command": "apio:build"

@@ -2,9 +2,11 @@
 
 Develop hardware for open FPGAs easily
 
+![](https://github.com/FPGAwars/apio-ide/raw/master/doc/apio-ide-screenshot-1.png)
+
 ## Introduction
 
-**Apio-ide** is an Integrated development environment based on [Atom](https://atom.io/) and [APIO](https://github.com/FPGAwars/apio) for developing hardware for the **ICE40 Lattice FPGAs family**. These FPGAs are the first that are supported by a fully opensource toolchain: [Icestorm project](http://www.clifford.at/icestorm/)
+**Apio-ide** is an Integrated development environment based on [Atom](https://atom.io/), [APIO](https://github.com/FPGAwars/apio) and [Platformio-ide](http://platformio.org/), for developing hardware for the **ICE40 Lattice FPGAs family**. These FPGAs are the first that are supported by a fully opensource toolchain: [Icestorm project](http://www.clifford.at/icestorm/)
 
 Generate the **bistream** from the **Verilog** files, and then upload it into the FPGA
 

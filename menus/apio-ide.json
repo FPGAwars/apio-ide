@@ -51,8 +51,22 @@
           },
 
           {
+            "label": "Icezum",
+            "submenu": [
+              {
+                "label": "Template",
+                "command": "apio:example_icezum_template"
+              }
+            ]
+          },
+
+          {
             "label" : "Go Board",
             "submenu": [
+              {
+                "label": "Template",
+                "command": "apio:example_go_board_template"
+              },
               {
                 "label" : "Leds",
                 "command": "apio:example_go_board_leds"

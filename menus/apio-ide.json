@@ -41,6 +41,16 @@
           },
 
           {
+            "label": "Icestick",
+            "submenu": [
+              {
+                "label": "Template",
+                "command": "apio:example_icestick_template"
+              }
+            ]
+          },
+
+          {
             "label" : "Go Board",
             "submenu": [
               {

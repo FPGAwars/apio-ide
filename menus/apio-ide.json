@@ -84,6 +84,24 @@
         ]
         },
         {
+          "label": "Board Pinouts",
+          "submenu" : [
+            {
+              "label": "Icestick",
+              "command": "apio:pinout-icestick"
+            },
+            {
+              "label": "Icezum",
+              "command": "apio:pinout-icezum"
+            },
+            {
+              "label": "Go-board",
+              "command": "apio:pinout-go-board"
+            }
+          ]
+
+        },
+        {
           "type": "separator"
         },
        {

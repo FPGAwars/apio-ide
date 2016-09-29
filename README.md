@@ -28,7 +28,7 @@ Generate the **bistream** from the **Verilog** files, and then upload it into th
 
 ## License
 
-Released under the GLP v2 license
+Released under the GLP 3.0 license
 
 ## Authors
 * Juan Gonzalez-Gomez (Obijuan)

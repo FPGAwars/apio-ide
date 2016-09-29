@@ -8,7 +8,7 @@
     "build"
   ],
   "repository": "https://github.com/FPGAwars/apio-ide",
-  "license": "GPL-2.0",
+  "license": "GPL-3.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },

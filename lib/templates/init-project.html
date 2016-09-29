@@ -2,8 +2,23 @@
   <h1>APIO: Initialize project</h1>
 
   <section>
-    <div class="boards-select-wrapper">
-      <p class="boards-loading-placeholder">Loading boards...</p>
+    <h2>Choose FPGA boards: </h2>
+    <p class="selected-placeholder"></p>
+    <ul class="selected-boards"></ul>
+  </section>
+
+  <section>
+    <div class="board-select-wrapper">
+      <div class="settings-view">
+        <select class="board-select form-control">
+          <option value="icezum">IceZUM</option>
+          <option value="icestick">iCEstick</option>
+          <option value="go-board">Go board</option>
+          <option value="icoboard">icoBOARD 1.0</option>
+          <option value="iCE40-HX8K">iCE40-HX8K</option>
+          <option value="Cat-board">Cat board</option>
+        </select>
+      </div>
     </div>
   </section>
 

@@ -23,63 +23,98 @@
         "label": "Examples",
         "submenu": [
           {
-            "label": "Constraint files (PCF)",
+            "label": "IceZUM",
             "submenu": [
               {
-                "label": "Icezum",
-                "command": "apio:example_icezum"
+                "label": "Leds",
+                "command": "apio:example-icezum-leds"
               },
               {
-                "label": "Icestick",
-                "command": "apio:example_icestick"
+                "label": "Template",
+                "command": "apio:example-icezum-template"
               },
               {
-                "label": "Go board",
-                "command": "apio:example_go_board"
+                "label": "PCF",
+                "command": "apio:example-icezum-pcf"
               }
             ]
           },
-
           {
-            "label": "Icestick",
+            "label": "iCEstick",
             "submenu": [
               {
-                "label": "Template",
-                "command": "apio:example_icestick_template"
-              }
-            ]
-          },
-
-          {
-            "label": "Icezum",
-            "submenu": [
-              {
-                "label": "Template",
-                "command": "apio:example_icezum_template"
-              }
-            ]
-          },
-
-          {
-            "label" : "Go Board",
-            "submenu": [
-              {
-                "label": "Template",
-                "command": "apio:example_go_board_template"
+                "label": "Leds",
+                "command": "apio:example-icestick-leds"
               },
               {
-                "label" : "Leds",
-                "command": "apio:example_go_board_leds"
+                "label": "Template",
+                "command": "apio:example-icestick-template"
+              },
+              {
+                "label": "PCF",
+                "command": "apio:example-icestick-pcf"
+              }
+            ]
+          },
+          {
+            "label": "Go board",
+            "submenu": [
+              {
+                "label": "Leds",
+                "command": "apio:example-go-board-leds"
+              },
+              {
+                "label": "Template",
+                "command": "apio:example-go-board-template"
+              },
+              {
+                "label": "PCF",
+                "command": "apio:example-go-board-pcf"
+              }
+            ]
+          },
+          {
+            "label": "icoBOARD 1.0",
+            "submenu": [
+              {
+                "label": "Leds",
+                "command": "apio:example-icoboard-leds"
+              },
+              {
+                "label": "Template",
+                "command": "apio:example-icoboard-template"
+              },
+              {
+                "label": "PCF",
+                "command": "apio:example-icoboard-pcf"
+              }
+            ]
+          },
+          {
+            "label": "iCE40-HX8K",
+            "submenu": [
+              {
+                "label": "Leds",
+                "command": "apio:example-iCE40-HX8K-leds"
+              }
+            ]
+          },
+          {
+            "label": "Cat board",
+            "submenu": [
+              {
+                "label": "Blinky",
+                "command": "apio:example-Cat-board-blinky"
               }
             ]
           },
           {
             "label": "Leds",
-            "command": "apio:example_leds"
+            "command": "apio:example-leds"
           },
           {
             "label": "Wire",
-            "command": "apio:example_wire"
+            "command": "apio:example-wire"
           }
         ]
         },
@@ -87,15 +122,15 @@
           "label": "Board Pinouts",
           "submenu" : [
             {
-              "label": "iCEstick",
-              "command": "apio:pinout-icestick"
-            },
-            {
               "label": "IceZUM",
               "command": "apio:pinout-icezum"
             },
             {
-              "label": "Go-board",
+              "label": "iCEstick",
+              "command": "apio:pinout-icestick"
+            },
+            {
+              "label": "Go board",
               "command": "apio:pinout-go-board"
             },
             {

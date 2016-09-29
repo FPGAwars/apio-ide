@@ -104,40 +104,40 @@
         {
           "type": "separator"
         },
-       {
-         "label": "Build",
-         "command": "apio:build"
-       },
-       {
-         "label": "Upload",
-         "command": "apio:upload"
-       },
-       {
-         "label": "Clean",
-         "command": "apio:clean"
-       },
-       {
-         "type": "separator"
-       },
-       {
-         "label": "Simulation",
-         "command": "apio:sim"
-       },
-       {
-         "label": "Time",
-         "command": "apio:time"
-       },
-       {
-         "type": "separator"
-       },
-       {
-         "label": "NEW project",
-         "command": "apio:init"
-       },
-       {
-         "label": "Apio version",
-         "command": "apio:version"
-       }
+        {
+          "label": "Initialize Project",
+          "command": "apio:init"
+        },
+        {
+          "type": "separator"
+        },
+        {
+          "label": "Verify",
+          "command": "apio:verify"
+        },
+        {
+          "label": "Build",
+          "command": "apio:build"
+        },
+        {
+          "label": "Upload",
+          "command": "apio:upload"
+        },
+        {
+          "label": "Clean",
+          "command": "apio:clean"
+        },
+        {
+          "type": "separator"
+        },
+        {
+          "label": "Simulation",
+          "command": "apio:sim"
+        },
+        {
+          "label": "Time",
+          "command": "apio:time"
+        }
       ]
     }
   ]

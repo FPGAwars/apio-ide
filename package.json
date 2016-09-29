@@ -1,11 +1,14 @@
 {
   "name": "apio-ide",
   "main": "./lib/apio-ide",
-  "version": "0.5.0",
-  "description": "Apio ide for Atom. Develop hardware for openFPGAs easily",
-  "keywords": [],
+  "version": "0.5.1",
+  "description": "Apio IDE for Atom. Develop hardware for openFPGAs easily",
+  "keywords": [
+    "FPGA",
+    "build"
+  ],
   "repository": "https://github.com/FPGAwars/apio-ide",
-  "license": "GLP v2",
+  "license": "GPL-2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },

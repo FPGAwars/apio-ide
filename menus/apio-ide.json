@@ -87,16 +87,28 @@
           "label": "Board Pinouts",
           "submenu" : [
             {
-              "label": "Icestick",
+              "label": "iCEstick",
               "command": "apio:pinout-icestick"
             },
             {
-              "label": "Icezum",
+              "label": "IceZUM",
               "command": "apio:pinout-icezum"
             },
             {
               "label": "Go-board",
               "command": "apio:pinout-go-board"
+            },
+            {
+              "label": "icoBOARD 1.0",
+              "command": "apio:pinout-icoboard"
+            },
+            {
+              "label": "iCE40-HX8K",
+              "command": "apio:pinout-iCE40-HX8K"
+            },
+            {
+              "label": "Cat board",
+              "command": "apio:pinout-Cat-board"
             }
           ]
 

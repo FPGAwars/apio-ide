@@ -89,6 +89,13 @@
         {
           "label": "Time",
           "command": "apio:time"
+        },
+        {
+          "type": "separator"
+        },
+        {
+          "label": "Apio version",
+          "command": "apio:version"
         }
       ]
     }

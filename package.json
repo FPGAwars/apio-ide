@@ -1,7 +1,7 @@
 {
   "name": "apio-ide",
   "main": "./lib/apio-ide",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "description": "Apio IDE for Atom. Develop hardware for openFPGAs easily",
   "keywords": [
     "FPGA",

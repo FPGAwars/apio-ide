@@ -6,13 +6,21 @@ Develop hardware for open FPGAs easily
 
 ## Introduction
 
-**Apio-ide** is an Integrated development environment based on [Atom](https://atom.io/), [Apio](https://github.com/FPGAwars/apio) and [Platformio-ide](http://platformio.org/), for developing hardware for the **ICE40 Lattice FPGAs family**. These FPGAs are the first that are supported by a fully opensource toolchain: [Icestorm project](http://www.clifford.at/icestorm/)
+**Apio IDE** is an Integrated development environment based on [Atom](https://atom.io/), [Apio](https://github.com/FPGAwars/apio) and [Platformio-ide](http://platformio.org/), for developing hardware for the **ICE40 Lattice FPGAs family**. These FPGAs are the first that are supported by a fully opensource toolchain: [Icestorm project](http://www.clifford.at/icestorm/)
 
 Generate the **bistream** from the **Verilog** files, and then upload it into the FPGA
 
 ## Documentation
 
 [The documentation is located in the wiki page](https://github.com/FPGAwars/apio-ide/wiki)
+
+## Development
+
+### Debian packaging
+
+You can find the debian scripts to package the full application and all the packages here: https://github.com/set-soft/apio-ide-debian.
+
+Thanks Salvador E. Tropea!
 
 ## Supported boards
 
@@ -31,8 +39,13 @@ Generate the **bistream** from the **Verilog** files, and then upload it into th
 Released under the GLP 3.0 license
 
 ## Authors
-* Juan Gonzalez-Gomez (Obijuan)
-* Jesús Arroyo
+
+* [Juan González (Obijuan)](https://github.com/Obijuan)
+* [Jesús Arroyo Torrens](https://github.com/Jesus89)
+
+## Contributors
+
+* [Salvador E. Tropea](https://github.com/set-soft)
 
 ## Credits
 * [Icestorm project](http://www.clifford.at/icestorm/)

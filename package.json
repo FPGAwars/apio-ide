@@ -1,6 +1,6 @@
 {
   "name": "apio-ide",
-  "main": "./lib/apio-ide",
+  "main": "./lib/main",
   "version": "0.6.4",
   "description": "Apio IDE for Atom. Develop hardware for openFPGAs easily",
   "keywords": [
@@ -32,7 +32,7 @@
   "consumedServices": {
     "tool-bar": {
       "versions": {
-        "<2.0.0": "consumeToolBar"
+        "<2.0.0": "consumeToolbar"
       }
     }
   }

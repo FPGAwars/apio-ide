@@ -3,15 +3,15 @@
     "atom-text-editor": [
       {
         "label": "Apio build",
-        "command": "apio:build"
+        "command": "apio-ide:target:build"
       },
       {
         "label": "Apio Upload",
-        "command": "apio:upload"
+        "command": "apio-ide:target:upload"
       },
       {
         "label": "Apio Clean",
-        "command": "apio:clean"
+        "command": "apio-ide:target:clean"
       }
     ]
   },
@@ -21,34 +21,34 @@
       "submenu": [
         {
           "label": "Examples",
-          "command": "apio:example"
+          "command": "apio-ide:load-example"
         },
         {
           "label": "Board Pinouts",
           "submenu" : [
             {
               "label": "IceZUM",
-              "command": "apio:pinout-icezum"
+              "command": "apio-ide:pinout:icezum"
             },
             {
               "label": "iCEstick",
-              "command": "apio:pinout-icestick"
+              "command": "apio-ide:pinout:icestick"
             },
             {
               "label": "Go board",
-              "command": "apio:pinout-go-board"
+              "command": "apio-ide:pinout:go-board"
             },
             {
               "label": "icoBOARD 1.0",
-              "command": "apio:pinout-icoboard"
+              "command": "apio-ide:pinout:icoboard"
             },
             {
               "label": "iCE40-HX8K",
-              "command": "apio:pinout-iCE40-HX8K"
+              "command": "apio-ide:pinout:iCE40-HX8K"
             },
             {
               "label": "Cat board",
-              "command": "apio:pinout-Cat-board"
+              "command": "apio-ide:pinout:Cat-board"
             }
           ]
 
@@ -58,44 +58,44 @@
         },
         {
           "label": "Initialize Project",
-          "command": "apio:init"
+          "command": "apio-ide:initialize-project"
         },
         {
           "type": "separator"
         },
         {
           "label": "Verify",
-          "command": "apio:verify"
+          "command": "apio-ide:target:verify"
         },
         {
           "label": "Build",
-          "command": "apio:build"
+          "command": "apio-ide:target:build"
         },
         {
           "label": "Upload",
-          "command": "apio:upload"
+          "command": "apio-ide:target:upload"
         },
         {
           "label": "Clean",
-          "command": "apio:clean"
+          "command": "apio-ide:target:clean"
         },
         {
           "type": "separator"
         },
         {
           "label": "Simulation",
-          "command": "apio:sim"
+          "command": "apio-ide:target:sim"
         },
         {
           "label": "Time",
-          "command": "apio:time"
+          "command": "apio-ide:target:time"
         },
         {
           "type": "separator"
         },
         {
           "label": "Apio version",
-          "command": "apio:version"
+          "command": "apio-ide:version"
         }
       ]
     }

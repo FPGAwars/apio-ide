@@ -19,6 +19,7 @@
     "tool-bar",
     "build",
     "language-verilog",
+    "language-pcf",
     "linter-verilog"
   ],
   "providedServices": {

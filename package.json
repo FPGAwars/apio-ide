@@ -5,7 +5,9 @@
   "description": "Apio IDE for Atom. Develop hardware for openFPGAs easily",
   "keywords": [
     "FPGA",
-    "build"
+    "build",
+    "apio",
+    "IDE"
   ],
   "repository": "https://github.com/FPGAwars/apio-ide",
   "license": "GPL-3.0",
@@ -20,7 +22,7 @@
     "build",
     "language-verilog",
     "language-pcf",
-    "linter-verilog"
+    "apio-linter-verilog"
   ],
   "providedServices": {
     "builder": {

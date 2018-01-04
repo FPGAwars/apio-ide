@@ -1,3 +1,8 @@
+## 0.7.0
+* New project structure
+* Supported boards: TinyFPGA-B2, Blackice
+* Use apio-linter-verilog package
+
 ## 0.5.0
 * Menu examples:
   * added constraint files (PCF) for all the boards

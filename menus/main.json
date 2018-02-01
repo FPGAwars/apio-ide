@@ -49,6 +49,14 @@
             {
               "label": "Cat board",
               "command": "apio-ide:pinout:Cat-board"
+            },
+            {
+              "label": "TinyFPGA B2",
+              "command": "apio-ide:pinout:TinyFPGA-B2"
+            },
+            {
+              "label": "BlackIce",
+              "command": "apio-ide:pinout:blackice"
             }
           ]
 

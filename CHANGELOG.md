@@ -2,6 +2,7 @@
 * New project structure
 * Supported boards: TinyFPGA-B2, Blackice
 * Use apio-linter-verilog package
+* Check apio version
 
 ## 0.5.0
 * Menu examples:

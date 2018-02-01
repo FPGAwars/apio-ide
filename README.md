@@ -27,14 +27,13 @@ Thanks Salvador E. Tropea!
 | Picture        | Board          |
 | :------------- | :------------- |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icestick-1.png) | [Icestick](http://www.latticesemi.com/icestick) |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icezum-1.png) | [IceZum Alhambra](https://github.com/FPGAwars/icezum/wiki) |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icezum-1.png) | [IceZum Alhambra](https://github.com/FPGAwars/icezum) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/nandland-go-board-1.jpg) | [Nandland go board](https://www.nandland.com/goboard/introduction.html) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/icoboard-1.png) | [icoBOARD 1.0](http://icoboard.org/icoboard-1-0.html) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/ice40-hx8k-1.png) | [iCE40-HX8K ](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/cat-board-1.png) | [Cat board](https://hackaday.io/project/7982-cat-board) |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/tinyfpga-b2-1.png) | [TinyFPGA B2](http://tinyfpga.com/b-series-guide.html) |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/blackice-1.png) | [BlackIce](https://mystorm.uk/) |
-
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/tinyfpga-b2-1.jpg) | [TinyFPGA B2](http://tinyfpga.com/b-series-guide.html) |
+| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/blackice-1.jpg) | [BlackIce](https://mystorm.uk/) |
 
 ## License
 

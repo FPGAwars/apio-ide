@@ -38,7 +38,7 @@ Thanks Salvador E. Tropea!
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/iceblink40-hx1k-1.png) | [ICEBlink40 HX1K](https://www.latticesemi.com/iCEblink40-HX1K) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/cat-board-1.png) | [Cat board](https://hackaday.io/project/7982-cat-board) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/tinyfpga-b2-1.jpg) | [TinyFPGA B2](http://tinyfpga.com/b-series-guide.html) |
-| ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/tinyfpga-bx-1.jpg) | [TinyFPGA BX](https://tinyfpga.com/bx/guide.html) |
+| ![](doc/tinyfpga-bx-1.jpg) | [TinyFPGA BX](https://tinyfpga.com/bx/guide.html) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/blackice-1.jpg) | [BlackIce](https://mystorm.uk/) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/blackice-ii-1.jpg) | [BlackIce II](https://mystorm.uk/) |
 | ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/upduino-1.jpg) | [Upduino](http://www.gnarlygrey.com/) |

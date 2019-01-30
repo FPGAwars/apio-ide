@@ -28,7 +28,7 @@ Thanks Salvador E. Tropea!
 | :------------- | :------------- |
 | ![](doc/icestick-1.png) | [Icestick](http://www.latticesemi.com/icestick) |
 | ![](doc/icezum-1.png) | [IceZum Alhambra](https://github.com/FPGAwars/icezum) |
-| ![](doc/alhambra-ii-1.png) | [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |
+| ![](doc/alhambra-ii-1.jpg) | [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) |
 | ![](doc/nandland-go-board-1.jpg) | [Nandland go board](https://www.nandland.com/goboard/introduction.html) |
 | ![](doc/icoboard-1.png) | [icoBOARD 1.0](http://icoboard.org/icoboard-1-0.html) |
 | ![](doc/ice40-hx8k-1.png) | [iCE40-HX8K ](http://www.latticesemi.com/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) |

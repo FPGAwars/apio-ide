@@ -47,7 +47,7 @@ Thanks Salvador E. Tropea!
 
 ## License
 
-Released under the GLP 3.0 license
+Released under the GPL 3.0 license
 
 ## Authors
 

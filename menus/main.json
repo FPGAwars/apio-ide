@@ -55,6 +55,10 @@
               "command": "apio-ide:pinout:TinyFPGA-B2"
             },
             {
+              "label": "TinyFPGA BX",
+              "command": "apio-ide:pinout:TinyFPGA-BX"
+            },
+            {
               "label": "BlackIce",
               "command": "apio-ide:pinout:blackice"
             }

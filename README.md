@@ -1,5 +1,6 @@
-The [Atom editor was archived in Dec-2022](https://github.blog/2022-06-08-sunsetting-atom/)
+The [Atom editor was archived in Dec-2022](https://github.blog/2022-06-08-sunsetting-atom/)  
 For that reason, APIO-IDE has also been archived
+
 ----
 
 ![](https://github.com/FPGAwars/apio-ide/raw/master/doc/apio-ide-logo.png)
